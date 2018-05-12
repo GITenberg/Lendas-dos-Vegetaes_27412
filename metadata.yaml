@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '32677'
     url: http://www.gutenberg.org/2009/agents/32677
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/27412#Lendas-dos-Vegetaes
 gutenberg_issued: '2008-12-04'
 gutenberg_type: Text
 identifiers:
