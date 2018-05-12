@@ -1,0 +1,27 @@
+_repo: Lendas-dos-Vegetaes_27412
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Sequeira, Eduardo Henrique Vieira Coelho de
+    birthdate: 1861
+    deathdate: 1914
+    gutenberg_agent_id: '32677'
+    url: http://www.gutenberg.org/2009/agents/32677
+description: ''
+gutenberg_issued: '2008-12-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '27412'
+  lccn: ltf91080170
+language: pt
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'QK'
+- !lcsh 'Plants -- Folklore'
+title: Lendas dos Vegetaes
+url: http://www.gutenberg.org/ebooks/27412
